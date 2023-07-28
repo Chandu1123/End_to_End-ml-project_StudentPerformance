@@ -1,8 +1,10 @@
 pandas
 numpy 
 seaborn
-mlflow
--e .
+matplotlib
+catboost
+xgboost
+#-e .
 
 
 
